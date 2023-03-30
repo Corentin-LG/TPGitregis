@@ -58,7 +58,8 @@ func main() {
         "&": "214",     // orange
         "'": "0",       // black
         "*": "245",     // grey
-    }
+  }
+  
 
     // Import frames from data file
     framesFile, _ := filepath.Abs("assets/frames.json")
